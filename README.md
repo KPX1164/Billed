@@ -1,2 +1,2 @@
 # Billed
-This is base project
+This is only base project.
